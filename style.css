@@ -1,0 +1,30 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    background-color: cornflowerblue;
+    height: 95vh;
+}
+
+/* <body>
+    <div class="wrapper">
+        <div class="header">
+            <span>
+                Post
+            </span>
+            <span>
+                Notifications
+            </span>
+            <span>
+                Profile
+            </span>
+            <span>
+                Settings
+            </span>
+            <img class="logo" src="#">
+            <!-- # placeholder for makeshift logo -->
+            <button class="login">Login</button>
+            </div>
+        </div> */
